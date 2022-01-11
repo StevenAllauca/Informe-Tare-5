@@ -1,6 +1,6 @@
 # Informe-Tare-5
 
-#Universidad de las fuerzas Armadas ESPE
+#Universidad-de-las-fuerzas-Armadas-ESPE
 
 Fundamentos de Circuitos Electricos
 
