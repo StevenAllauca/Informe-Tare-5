@@ -1,6 +1,6 @@
 # Informe-Tare-5
-Steven Allauca
-Universidad de las Fuerzas Armadas "ESPE"
+
+#Universidad de las fuerzas Armadas ESPE
 
 Fundamentos de Circuitos Electricos
 
@@ -115,7 +115,29 @@ Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones par
 
 ![image](https://user-images.githubusercontent.com/94026628/148866304-4a90076e-8f43-408f-80c2-03595d2b0ced.png)
 
-lucerooooo
+19..Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
+![image](https://user-images.githubusercontent.com/94026628/148967816-331598f4-fb4c-43a8-a815-fe686d6e47ab.png)
+
+(POSITIVO A LA DERECHA)
+
+![image](https://user-images.githubusercontent.com/94026628/148967834-f28910e4-d833-44d1-8e32-e6e77a035cc2.png)
+
+(POSITIVO BAJO)
+
+![image](https://user-images.githubusercontent.com/94026628/148967929-1089bb2c-837c-46bd-8e63-c37f4b13443d.png)
+
+21.- Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/94026628/148967991-2244aeef-2f49-4bd1-a951-b5c3cf7b149c.png)
+
+![image](https://user-images.githubusercontent.com/94026628/148968007-68b7421a-317c-4e5e-83d4-6bdad48536f4.png)
+
+![image](https://user-images.githubusercontent.com/94026628/148968022-ad7f620a-7554-47af-ae7b-12dc2e658e29.png)
+
+![image](https://user-images.githubusercontent.com/94026628/148968066-5ed1126e-493f-42a9-ad6a-db3a1159b214.png)
+
+![image](https://user-images.githubusercontent.com/94026628/148968086-04e288b3-b374-44d6-a7b5-d3cf98ac8057.png)
+
 
 23.Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 
@@ -145,7 +167,7 @@ lucerooooo
 
 ![image](https://user-images.githubusercontent.com/94026628/148867325-073bc5f6-f499-4a44-9eca-afb97830857e.png)
 
-4.Video:
+4.Video:  https://youtu.be/CJO7RLJSP7o 
 
 5.Conclusiones:
 
